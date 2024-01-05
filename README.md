@@ -22,9 +22,7 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
-  <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiAkd2KlLODAxXflWoFHco9AmYQFnoECAYQAQ&url=https%3A%2F%2Fwww.markdownguide.org%2F&usg=AOvVaw1fohdJEEbL6kohiJ-Pimbe&opi=89978449" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"/> 
-  </a> 
+
   <a href="https://canva.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> 
   </a> 
